@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask for permission to absent</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./image/logo/favicon.jpg">
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">
+            <div class="menu">
+            </div>
+            <div class="logo">
+                <img src="./image/logo/logo.png" alt="logo">
+            </div>
+        </div>
+        <div id="format-content">
+            <div class="txt-area">
+                <textarea id="input_data"></textarea>
+            </div>
+            <div class="bnt-submit">
+                <input class="btn-export" type="button" value="Export Table" onclick="root()">
+            </div>
+            <div id="format-table">
+                <div id="content-table">
+                    <!-- table will initialization when enter data-->
+                </div>
+                <div>
+                    <input id="export-excel" type="button" value="Export Excel" onclick="handleTableToExcel()">
+                </div>
+            </div>
+        </div>
+        <div id="warning">
+            <h1>Website không hỗ trợ kích thước màng hình hiện tại</h1>
+        </div>
+    </div>
+
+    <!-- script -->
+    <script language="JavaScript" src="./js/main.js" charset="utf-8"></script>
+
+</body>
+
+</html>

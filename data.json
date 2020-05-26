@@ -1,0 +1,338 @@
+[
+  {
+    "name_member": "nguyen quang manh",
+    "time_off": "3 days",
+    "from_datetime": "15/05/2020 -",
+    "to_datetime": "19/05/2020",
+    "datetime_return": "08:00 (20/05/2020)",
+    "reason": "my wedding."
+  },
+  {
+    "name_member": "le vu dinh phong (fintech 1)",
+    "time_off": "4 hour",
+    "from_datetime": "08:00 14/05/2020",
+    "to_datetime": "12:00 14/05/2020",
+    "datetime_return": "13:00 (14/05/2020).",
+    "reason": "i need to go to the county police to explain the problem of violating traffic laws"
+  },
+  {
+    "name_member": "duong van son",
+    "time_off": "4h",
+    "from_datetime": "8h 14/05/2020",
+    "to_datetime": "12h 14/05/2020",
+    "datetime_return": "13:00 (14/05/2020)",
+    "reason": "take care of my child."
+  },
+  {
+    "name_member": "bui van du",
+    "time_off": "2 hours",
+    "from_datetime": "08:00 -",
+    "to_datetime": "10:00 14/5/2020",
+    "datetime_return": "10:00 (14/05/2020)",
+    "reason": "i have some personal issues need to be solved."
+  },
+  {
+    "name_member": "ngo duc xuan",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "8:00 (15/05/2020)",
+    "reason": "i were sick since the middle of last night..."
+  },
+  {
+    "name_member": "le vinh phi",
+    "time_off": "2h",
+    "from_datetime": "08:00 14/05/2020",
+    "to_datetime": "10:00 14/05/2020",
+    "datetime_return": "10:00 14/05/2020",
+    "reason": "i'm feeling tired. i need time to rest."
+  },
+  {
+    "name_member": "nguyen duc thuan (\u001dsi2 - leader)",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "08:00 15/05/2020",
+    "reason": "he take care his son because his son is hospitalized."
+  },
+  {
+    "name_member": "tran cam thach",
+    "time_off": "8h",
+    "from_datetime": "08:00 15/05/2020",
+    "to_datetime": "17:00 15/05/2020",
+    "datetime_return": "08:00 18/05/2020",
+    "reason": "i have work to handle at home."
+  },
+  {
+    "name_member": "bui van du",
+    "time_off": "2.5 hours",
+    "from_datetime": "08:00 -",
+    "to_datetime": "11:00 14/5/2020",
+    "datetime_return": "10:00 (14/05/2020)",
+    "reason": "i have some personal issues need to be solved."
+  },
+  {
+    "name_member": "bui van du",
+    "time_off": "2 hours",
+    "from_datetime": "08:00 -",
+    "to_datetime": "10:00 14/5/2020",
+    "datetime_return": "10:00 (14/05/2020)",
+    "reason": "i have some personal issues need to be solved."
+  },
+  {
+    "name_member": "vo thi cam ngoc",
+    "time_off": "2 hour",
+    "from_datetime": "15:00 14/05/2020",
+    "to_datetime": "17:00 14/05/2020",
+    "datetime_return": "08:00 15/05/2020",
+    "reason": "i need to go to hospital for recheck my health"
+  },
+  {
+    "name_member": "nguyen duc loc",
+    "time_off": "2 hours",
+    "from_datetime": "8:00 15/05/2020",
+    "to_datetime": "10:00 15/05/2020",
+    "datetime_return": "10:00 15/05/2020",
+    "reason": "i have to take my little daughter for the measles vaccination."
+  },
+  {
+    "name_member": "le dinh huan",
+    "time_off": "3 hour",
+    "from_datetime": "8:00 15/05/2020",
+    "to_datetime": "11:00 15/05/2020",
+    "datetime_return": "11:00 15/05/2020",
+    "reason": "i have an important report in university"
+  },
+  {
+    "name_member": "hoang anh",
+    "time_off": "2 hour",
+    "from_datetime": "8:00 15/05/2020",
+    "to_datetime": "10:00 15/05/2020",
+    "datetime_return": "10:00 15/05/2020",
+    "reason": "i need to solve some personal issue"
+  },
+  {
+    "name_member": "nguyen duc loc",
+    "time_off": "2 hours",
+    "from_datetime": "8:00 15/05/2020",
+    "to_datetime": "10:00 15/05/2020",
+    "datetime_return": "10:00 15/05/2020",
+    "reason": "i have to take my little daughter for the measles vaccination."
+  },
+  {
+    "name_member": "nguyen manh tri",
+    "time_off": "4 hour",
+    "from_datetime": "13:00 15/05/2020",
+    "to_datetime": "17:00 15/05/2020",
+    "datetime_return": "8:00 18/05/2020",
+    "reason": "i need to go to the hospital to get a checkup as my doctor orders."
+  },
+  {
+    "name_member": "do duy hieu",
+    "time_off": "1d",
+    "from_datetime": "8:00 -",
+    "to_datetime": "17:00 15/05/2020",
+    "datetime_return": "8:00 18/05/2020",
+    "reason": "his son was sick. he needs to take his son to hospital."
+  },
+  {
+    "name_member": "do van tai",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "null",
+    "reason": "i need to solve some issues with my family."
+  },
+  {
+    "name_member": "pham thi xuan ny",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "8:00 (18/05/2020)",
+    "reason": "i need to take my mom go to hometown and have some personal issues need to be solved."
+  },
+  {
+    "name_member": "trinh quang tin",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "13:00 (15/05/2020)",
+    "reason": "i solved some own issues"
+  },
+  {
+    "name_member": "bui duc lam",
+    "time_off": "8 hour",
+    "from_datetime": "8:00 18/05/2020",
+    "to_datetime": "17:00 18/05/2020",
+    "datetime_return": "8:00 19/05/2020",
+    "reason": "i have to bring wedding fruit for my brother."
+  },
+  {
+    "name_member": "le phuong ninh",
+    "time_off": "2 hour",
+    "from_datetime": "15:00 18/05/2020",
+    "to_datetime": "17:00 18/05/2020",
+    "datetime_return": "8:00 18/05/2020",
+    "reason": "i have a headache and need more time to rest"
+  },
+  {
+    "name_member": "trinh quang tan",
+    "time_off": "1 \u001dday",
+    "from_datetime": "8:00 18/05/2020",
+    "to_datetime": "17:00 18/05/2020",
+    "datetime_return": "8:00 19/05/2020",
+    "reason": "i have urgent thing need to comeback my hometown to resolve it."
+  },
+  {
+    "name_member": "nguyễn viết huy",
+    "time_off": "4 hours",
+    "from_datetime": "8:00 18/05/2020",
+    "to_datetime": "12:00 18/05/2020",
+    "datetime_return": "13:00 18/05/2020",
+    "reason": "i take my girl friend to the hospital"
+  },
+  {
+    "name_member": "phan công long",
+    "time_off": "4 hours",
+    "from_datetime": "8:00 18/05/2020",
+    "to_datetime": "12:00 18/05/2020",
+    "datetime_return": "13:00 18/05/2020",
+    "reason": "i have a headache and need more time to rest"
+  },
+  {
+    "name_member": "tran viet tuan",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "08:00 19/05/2020",
+    "reason": "i have a health examination at the hospital."
+  },
+  {
+    "name_member": "dang van tuan",
+    "time_off": "4 hours",
+    "from_datetime": "8:00 18/05/2020",
+    "to_datetime": "12:00 18/05/2020",
+    "datetime_return": "13:00 18/05/2020",
+    "reason": "i have a headache and need more time to rest"
+  },
+  {
+    "name_member": "nguyen huu binh",
+    "time_off": "8 hours - 18/05/2020)",
+    "from_datetime": "8 hours 8",
+    "to_datetime": "18/05/2020",
+    "datetime_return": "8:00 19/05/2020",
+    "reason": "i have a headache and feel tired need more time to rest"
+  },
+  {
+    "name_member": "nguyen cong khanh",
+    "time_off": "8 hours - 18/05/2020)",
+    "from_datetime": "8 hours 8",
+    "to_datetime": "18/05/2020",
+    "datetime_return": "8:00 19/05/2020",
+    "reason": "my daughter gets high fever, please let me take a day off to take care of her."
+  },
+  {
+    "name_member": "tran cam thach tran cam thach (si2 - assistant/php)",
+    "time_off": "4h",
+    "from_datetime": "08:00 18/05/2020",
+    "to_datetime": "12:00 18/05/2020",
+    "datetime_return": "13:00 18/05/2020",
+    "reason": "i need to rest."
+  },
+  {
+    "name_member": "mai thanh phuoc | hr tech | php",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "13:00 - 2020/05/18",
+    "reason": "he must go to hospital to check his leg."
+  },
+  {
+    "name_member": "trinh quang tin",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "10:00 - 2020/05/18",
+    "reason": "i solved some paper issue"
+  },
+  {
+    "name_member": "phan văn minh",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "08:00 - 2020/05/19",
+    "reason": "i have an appointment with the dentist in the hospital."
+  },
+  {
+    "name_member": "tran viet tuan",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "08:00 19/05/2020",
+    "reason": "i have a health examination at the hospital."
+  },
+  {
+    "name_member": "le minh khanh",
+    "time_off": "8 hours",
+    "from_datetime": "08:00 20/05/2020",
+    "to_datetime": "17:00 20/05/2020",
+    "datetime_return": "08:00 (21/5/2020)",
+    "reason": "i need stay at home and prepare the first birthday for my son."
+  },
+  {
+    "name_member": "tran duc thang",
+    "time_off": "4hours",
+    "from_datetime": "08:00 19/05/2020",
+    "to_datetime": "12:00 19/05/2020",
+    "datetime_return": "(13:00 19/05/2020)",
+    "reason": "i have to go to the bank to settle some papers"
+  },
+  {
+    "name_member": "phan việt hùng",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "15:00 19/05/2020",
+    "reason": "my wife's health is not good so i must take my wife to the hospital."
+  },
+  {
+    "name_member": "nguyen phan dinh duy",
+    "time_off": "2 hours",
+    "from_datetime": "13:00 19/05/2020",
+    "to_datetime": "15:00 19/05/2020",
+    "datetime_return": "15:00 (19/5/2020)",
+    "reason": "i need to resolve some personal matters."
+  },
+  {
+    "name_member": "phan văn minh",
+    "time_off": "null",
+    "from_datetime": "null",
+    "to_datetime": "null",
+    "datetime_return": "08:00 - 2020/05/19",
+    "reason": "i have an appointment with the dentist in the hospital."
+  },
+  {
+    "name_member": "huynh thi thanh hien (si2 - qc)",
+    "time_off": "8 hours",
+    "from_datetime": "8:00 22/05/2020",
+    "to_datetime": "17:00 22/05/2020",
+    "datetime_return": "8:00 (25/5/2020)",
+    "reason": "i need to resolve some personal matters"
+  },
+  {
+    "name_member": "vo ngoc tin",
+    "time_off": "2 hours",
+    "from_datetime": "13:00 -",
+    "to_datetime": "15:00 19/05/2020",
+    "datetime_return": "15:00 (19/5/2020)",
+    "reason": "i need to resolve some papers at university"
+  },
+  {
+    "name_member": "trinh quang tin",
+    "time_off": "1 hours",
+    "from_datetime": "15:00 -",
+    "to_datetime": "16:00 19/05/2020",
+    "datetime_return": "16:00 (19/5/2020)",
+    "reason": "i need to resolve some papers"
+  }
+]

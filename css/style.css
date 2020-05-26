@@ -1,0 +1,209 @@
+#container {
+  display: grid;
+  position: fixed; /*  Cố phần tử định trên trang web */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("./../image/background/backgroud.jpg");
+}
+
+#header {
+  position: relative;
+  width: 100%;
+}
+
+.menu {
+  position: absolute;
+  width: 100%;
+  background-color: black;
+  height: 100px;
+  opacity: 50%;
+}
+
+.logo {
+  position: sticky;
+}
+
+.logo img {
+  width: 150px;
+  height: 50px;
+  padding: 15px;
+}
+
+#format-content {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.txt-area {
+  width: 20%;
+  height: 456px;
+  padding: 10px 15px 15px 10px;
+  border: 1px solid rgb(230, 230, 225);
+  background-color: rgb(230, 230, 225);
+  border-radius: 10px;
+  opacity: 85%;
+}
+.txt-area textarea {
+  background-color: rgb(230, 230, 225);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  width: 100%;
+  height: 100%;
+  border: 0px;
+  text-transform: lowercase;
+}
+
+.bnt-submit {
+  align-self: center;
+  width: 10%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.bnt-submit input {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(139, 236, 139);
+  border-radius: 10px;
+  border-color: rgb(139, 236, 139);
+}
+
+.bnt-submit input:hover {
+  background-color: rgb(29, 216, 39);
+  border-radius: 10px;
+  border-color: rgb(29, 216, 39);
+}
+
+#format-table {
+  width: 60%;
+  height: 480px;
+  padding: 20px;
+  background-color: rgb(230, 230, 225);
+  border-radius: 10px;
+  opacity: 85%;
+}
+
+#format-table input {
+  display: none;
+  width: 100%;
+  height: 40px;
+  margin-top: 2px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(139, 236, 139);
+  border-radius: 10px;
+  border-color: rgb(139, 236, 139);
+}
+
+#format-table input:hover {
+  background-color: rgb(29, 216, 39);
+  border-radius: 10px;
+  border-color: rgb(29, 216, 39);
+}
+
+#content-table {
+  position: relative;
+  width: 100%;
+  height: 455px;
+  background-color: rgb(230, 230, 225);
+  overflow: auto;
+}
+
+#format-table table {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  border: 0px;
+}
+
+#format-table table thead th {
+  position: sticky;
+  top: 0;
+  background-color: rgb(80, 182, 230);
+}
+
+tr:nth-child(even) {
+  background: rgb(182, 231, 238);
+}
+tr:hover {
+  background: rgb(172, 170, 170);
+}
+th,
+td {
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#warning {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(172, 170, 170);
+  border-radius: 10px;
+}
+
+/* ::-webkit-scrollbar-track {
+  box-shadow: none 0 0 5px grey; 
+  border-radius: 10px;
+} */
+
+@media only screen and (max-width: 1600px) {
+  .txt-area textarea {
+    font-size: 17px;
+  }
+  th,
+  td {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .txt-area textarea {
+    font-size: 16px;
+  }
+  th,
+  td {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  .bnt-submit input {
+    font-size: 14px;
+  }
+  .txt-area textarea {
+    font-size: 14px;
+  }
+  th,
+  td {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  #warning {
+    display: grid;
+  }
+  #warning h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  #format-content {
+    display: none;
+  }
+}
