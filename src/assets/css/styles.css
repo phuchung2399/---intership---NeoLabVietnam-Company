@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: "Roboto";
+    src: url("./fonts/Roboto.woff2");
+}
+html, body{
+    font-family: "Roboto";
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 20px;
+    color: #3b4249;
+}
+.wrap-layout{
+    margin-top: 15px;
+}
+.img-logo-nav {
+    width: 170px;
+    margin: auto;
+}

@@ -1,0 +1,44 @@
+.not-allow {
+    opacity: 0.5;
+}
+.not-allow:hover {
+    cursor: not-allowed;
+}
+.table-title .btn {
+    color: #fff;
+    float: right;
+    font-size: 13px;
+    border: none;
+    min-width: 50px;
+    border-radius: 2px;
+    border: none;
+    outline: none !important;
+    margin-left: 10px;
+}
+table.table td a.view {
+    color: #07a4ff;
+}
+table.table td a.edit {
+    color: #ffc107;
+  }
+table.table td a.delete {
+    color: #f44336;
+}
+table.table td:last-child i {
+    opacity: 0.9;
+    font-size: 22px;
+    margin: 0 5px;
+}
+.indicator {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 9999px;
+    margin-right: 5px;
+}
+.label-online {
+    background-color: #1956d9;
+}
+.label-offline {
+    background-color: #d92f19;
+}
